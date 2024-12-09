@@ -1,0 +1,1 @@
+{"version":3,"file":"LiidiManageri.js","sourceRoot":"","sources":["../../src/agentit/LiidiManageri.ts"],"names":[],"mappings":";;;AAAA,yDAAsD;AAEtD,MAAa,aAAc,SAAQ,yBAAW;IAC1C;QACI,KAAK,CAAC,gBAAgB,CAAC,CAAC;IAC5B,CAAC;IAED,KAAK,CAAC,cAAc,CAAC,SAAc;QAC/B,OAAO;YACH,WAAW,EAAE,WAAW;YACxB,YAAY,EAAE,EAAE;SACnB,CAAC;IACN,CAAC;CACJ;AAXD,sCAWC"}

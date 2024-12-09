@@ -1,0 +1,1 @@
+{"version":3,"file":"KampanjaManageri.js","sourceRoot":"","sources":["../../src/agentit/KampanjaManageri.ts"],"names":[],"mappings":";;;AAAA,yDAAsD;AAEtD,MAAa,gBAAiB,SAAQ,yBAAW;IAC7C;QACI,KAAK,CAAC,mBAAmB,CAAC,CAAC;IAC/B,CAAC;IAED,KAAK,CAAC,gBAAgB,CAAC,cAAmB;QACtC,OAAO;YACH,aAAa,EAAE,YAAY;YAC3B,QAAQ,EAAE,EAAE;SACf,CAAC;IACN,CAAC;CACJ;AAXD,4CAWC"}

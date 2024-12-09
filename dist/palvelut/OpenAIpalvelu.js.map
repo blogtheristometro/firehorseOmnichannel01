@@ -1,0 +1,1 @@
+{"version":3,"file":"OpenAIpalvelu.js","sourceRoot":"","sources":["../../src/palvelut/OpenAIpalvelu.ts"],"names":[],"mappings":";;;AAAA,MAAa,aAAa;IAGtB,YAAY,QAAgB;QACxB,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC7B,CAAC;IAED,KAAK,CAAC,QAAQ;QACV,iBAAiB;IACrB,CAAC;IAED,KAAK,CAAC,aAAa,CAAC,IAAS;QACzB,kCAAkC;IACtC,CAAC;CACJ;AAdD,sCAcC"}
